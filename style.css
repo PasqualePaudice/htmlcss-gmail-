@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+    background-image: url(https://www.aranzulla.it/wp-content/contenuti/2018/07/keyboard-tastiera.jpeg);
+    background-size: cover;
+}
+
+#centro {
+    width:50%;
+    margin: auto;
+    height: 300px;
+    padding: 20px;
+    background-color: rgb(255,255,255);
+}
+
+#logo {
+    width: 100px;
+    vertical-align: middle;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+
+.destra{
+    float: right;
+}
+
+.inline{
+    display:inline;
+    margin-top: 4px;
+}
+
+#c{
+    border:2px solid black;
+    border-radius: 50px;
+    background-color: yellow;
+    padding:2px;
+}
+
+.bordo{
+    display:inline;
+    margin-top: 4px;
+    background-color: #f2f2f2;
+    padding: 1px;
+}
+
+section{
+    background-color:  #f2f2f2;
+    border: 1px outset grey;
+    margin: 2px;
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    width:50%;
+    margin: auto;
+}
+
+#letta{
+    background-color: white;
+    border-style: inset;
+}
